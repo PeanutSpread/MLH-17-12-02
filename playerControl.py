@@ -1,5 +1,5 @@
 class playerControl(object):
-    def __init__(self,x,y,exists):
+    def __init__(self,x,y):
         self.X = x
         self.Y = y
         self.Exists = True

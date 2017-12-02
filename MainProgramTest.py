@@ -112,7 +112,7 @@ while running:
     
     display.flip()
     clock.tick(60)
-    if p1.exists == False or p2.exists == False:
+    if p1.Exists == False or p2.Exists == False:
         running = False
 
 quit()
